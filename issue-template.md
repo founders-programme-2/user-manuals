@@ -28,3 +28,5 @@ Name:
 ## What people misunderstand about me: 
 
 ## How I like to get my feedback:  
+
+## Tech Stack:  
